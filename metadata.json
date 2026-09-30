@@ -1,0 +1,7 @@
+{
+  "name": "StudyMatrix AI - Exam Triage & Study Planner",
+  "description": "AI-powered college study planner that triages subjects by difficulty and exam dates to generate a personalized daily revision schedule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
